@@ -1,0 +1,1 @@
+# Paquete core: aquí irá toda la lógica interna de base de datos y modelos.

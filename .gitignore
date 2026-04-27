@@ -1,5 +1,25 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Virtualenv
+venv/
+
+# SQLite database
+data/*.db
+data/*.sqlite3
 *.db
-.env
+
+# Exports
+exported/
+*.json
+
+# Photos
+photos/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store

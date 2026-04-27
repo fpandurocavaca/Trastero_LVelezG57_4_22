@@ -1,0 +1,1 @@
+# Paquete cli: aquí estará el modo consola.
